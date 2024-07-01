@@ -18,6 +18,15 @@ conda activate cookiecutter
 pip install cookiecutter
 ```
 
+If you are prompted 
+
+```console
+conda create -n cookiecutter python=3.10
+conda activate cookiecutter
+pip install cookiecutter
+```
+Consult the guide on how to [install python and miniconda](https://dev.azure.com/NQCP/NQCP/_wiki/wikis/NQCP.wiki/143/Python-how-to-install)
+
 Alternative you can consult the [installation guide](https://cookiecutter.readthedocs.io/en/stable/installation.html).
 
 ## How to use this  cookie cutter template

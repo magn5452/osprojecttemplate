@@ -18,11 +18,16 @@ conda activate cookiecutter
 pip install cookiecutter
 ```
 
+Importantly check if the install is properly checked by running before continuing
+```console
+pip list
+```
+
 Alternative you can consult the [installation guide](https://cookiecutter.readthedocs.io/en/stable/installation.html).
 
 ## How to use this  cookie cutter template
 
-The **second** step is to activate the cookiecutter environment, and execute the cookiecutter command:
+The **second** step is to activate the cookiecutter environment, and execute the cookiecutter command. Assumining that cookiecutter has been properly installed open a terminal and navigate to the directory where you want your repository to be located locally: 
 
 ```console
 conda activate cookiecutter
